@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joshua Bloom.
-- 👀 I’m interested in Algorand and blockchain technology.
+- 👀 I’m interested in Algorand and DAOs.
 - 🌱 I’m currently learning Reach.
 - 💞️ I’m looking to collaborate on Algorand projects.
 - 📫 How to reach me: contactjoshuabloom@gmail.com
