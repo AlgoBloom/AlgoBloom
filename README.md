@@ -1,5 +1,5 @@
 -- 👋 Hi, I’m Joshua Bloom.
-- 👀 I’m interested in Algorand and DAOs.
+- 👀 I’m interested in Algorand, DAOs and DeFi.
 - 🌱 I’m currently learning PyTeal and Reach.
 - 💞️ I’m looking to collaborate on Algorand projects.
 - 📫 How to reach me: bloomblockchain@gmail.com
