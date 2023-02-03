@@ -1,5 +1,5 @@
 -- 👋 Hi, I’m Joshua Bloom.
-- 👀 I’m interested in social entrepreneurship, DAOs, DeFi and ML.
+- 👀 I’m interested in social and regenerative entrepreneurship, DAOs, DeFi and ML.
 - 📫 How to reach me: bloomblockchain@gmail.com
 
 <!---
